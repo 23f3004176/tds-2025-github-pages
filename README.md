@@ -1,5 +1,16 @@
-[![CI](https://github.com/23f3004176/tds-2025-github-pages/actions/workflows/ci.yml/badge.svg)](https://github.com/23f3004176/tds-2025-github-pages/actions/workflows/ci.yml)
+# GitHub Pages Site with Custom 404
 
-# tds-2025-github-pages
+This repository demonstrates a GitHub Pages site with a creative custom 404 error page.
 
-This repository contains a GitHub Pages site with a CI workflow.
+## Features
+- ✨ Modern, gradient-based design
+- 🎨 Animated elements for better user engagement
+- 📱 Responsive layout
+- 🔄 Custom 404 error handling
+- 📧 Contact information included
+
+## Contact
+Email: 23f3004176@ds.study.iitm.ac.in
+
+## Testing
+Visit any non-existent page to see the custom 404 page in action!
